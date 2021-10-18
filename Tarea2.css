@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-image: url('fondo1.jpg');
+  }
+  
+  .formu {
+    width: 350px;
+    background: #173129;
+    padding: 40px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+  }
+  
+  .formu h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  
+  .cuadros {
+    width: 100%;
+    background: #303141;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #144e47;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+  }
+  
+  .formu p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+  }
+  
+  .formu a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .formu a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  .formu .boton {
+    width: 100%;
+    background: #3190ad;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+  }
